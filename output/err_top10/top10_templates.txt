@@ -1,0 +1,30 @@
+tag:1 num:16
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt SWITCHINGENGINEMAN-4-IPPLLCINTERRUPTFREELISTBELOWHIPRIORITYTHRESHOLD:
+
+tag:13 num:4
+times)IPP freelistBelowHiPriorityThreshold LLC (Suppressed SWITCHINGENGINEMAN-6-Itest: 1117838577 103 3105
+
+tag:12 num:2
+times)IPP freelistBelowHiPriorityThreshold LLC (Suppressed SWITCHINGENGINEMAN-6-Itest: 103 3105 1117838576
+
+tag:14 num:2
+times)IPP freelistBelowHiPriorityThreshold LLC (Suppressed SWITCHINGENGINEMAN-6-Itest: 103 3105 1117838578
+
+tag:5 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 111 3931 1117838574
+
+tag:9 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 1117838575 2204 118
+
+tag:6 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 110 2172 1117838574
+
+tag:10 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 1117838575 2045 120
+
+tag:2 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed input SWITCHINGENGINEMAN-6-Itest:
+
+tag:3 num:1
+times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 1117838572 2081 114
+

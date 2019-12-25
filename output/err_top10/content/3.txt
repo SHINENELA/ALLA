@@ -1,0 +1,5 @@
+template:	times)IPP freelistBelowHiPriorityThreshold LLC : (Suppressed interrupt 1117838572 2081 114
+
+log:
+	1117838572 SWITCHINGENGINEMAN-5-IPPLLCINTERRUPTFREELISTBELOWHIPRIORITYTHRESHOLD: (Suppressed 114 times)IPP LLC freelistBelowHiPriorityThreshold interrupt : 2081
+
